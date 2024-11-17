@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Goodluck00112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in putting my programming skills into practice
+- 🌱 I’m currently learning javascript, React and python
+- 💞️ I’m looking to collaborate on any project trhta i can put my skill into practice
+- 📫 How to reach me my email = goodlucknnadi@gmail.com
+- I AM OPEN TO COLLABORATION
+- phone no: 09151211637
+- whatsapp number : 09151211637
 
 <!---
 Goodluck00112/Goodluck00112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
