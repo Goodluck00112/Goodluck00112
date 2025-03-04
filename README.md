@@ -2,7 +2,7 @@
 - 👀 I’m interested in putting my programming skills into practice
 - 🌱 I’m currently learning javascript, React and python
 - 💞️ I’m looking to collaborate on any project trhta i can put my skill into practice
-- 📫 How to reach me my email = goodlucknnadi@gmail.com
+- 📫 How to reach me my email = goodlucknnadi050@gmail.com
 - I AM OPEN TO COLLABORATION
 - phone no: 09151211637
 - whatsapp number : 09151211637
