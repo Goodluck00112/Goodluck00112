@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project trhta i can put my skill into practice
 - 📫 How to reach me my email = goodlucknnadi050@gmail.com
 - I AM OPEN TO COLLABORATION
-- phone no: 09151211637
+- phone no: 07042954677
 - whatsapp number : 09151211637
 
 <!---
